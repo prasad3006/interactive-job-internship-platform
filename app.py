@@ -26,8 +26,8 @@ st.markdown(
 st.divider()
 
 # ---------------- LOAD DATA ----------------
-students = pd.read_csv("data/students.csv")
-jobs = pd.read_csv("data/jobs.csv")
+students = pd.read_csv("students.csv")
+jobs = pd.read_csv("jobs.csv")
 
 # ---------------- SIDEBAR ----------------
 st.sidebar.header("👤 Student Login (Demo)")
@@ -89,3 +89,4 @@ st.markdown(
     "<p style='text-align:center;'>Powered by AI • Built for GDG TechSprint 🚀</p>",
     unsafe_allow_html=True
 )
+
