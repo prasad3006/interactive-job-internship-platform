@@ -1,0 +1,8 @@
+job_id,role,required_skills,min_cgpa,type
+101,Data Analyst,"Python, SQL, Power BI, Data Analysis",7.0,Internship
+102,Machine Learning Engineer,"Python, Machine Learning, Statistics",8.0,Job
+103,Java Developer,"Java, Data Structures, SQL",7.0,Internship
+104,Frontend Developer,"HTML, CSS, JavaScript, React",7.5,Internship
+105,Backend Developer,"Python, SQL, APIs",7.2,Job
+106,Data Science Intern,"Python, Machine Learning, Data Visualization",7.5,Internship
+107,Full Stack Developer,"HTML, CSS, JavaScript, Python",7.8,Job

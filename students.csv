@@ -1,0 +1,9 @@
+student_id,name,skills,cgpa,degree
+1,Prasad,"Python, Machine Learning, SQL, Power BI",8.2,B.Tech CSE
+2,Akhil,"Java, Data Structures, SQL",7.5,B.Tech CSE
+3,Sneha,"Python, Excel, Power BI, Data Analysis",8.0,B.Tech CSE
+4,Rahul,"Python, Machine Learning, Statistics",8.5,B.Tech CSE
+5,Ananya,"HTML, CSS, JavaScript, React",7.8,B.Tech IT
+6,Kiran,"C, C++, Operating Systems, CN",7.2,B.Tech CSE
+7,Pooja,"Python, SQL, Data Visualization",8.1,B.Tech CSE
+8,Sai,"Java, Spring Boot, MySQL",7.6,B.Tech CSE
